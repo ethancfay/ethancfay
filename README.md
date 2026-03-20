@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ethan Chun Fung Au Yeung</h1>
-<h3 align="center">omputer Science Major at University of Massachusetts - Amherst</h3>
+<h1 align="center">Ethan Chun Fung Au Yeung</h1>
+<h3 align="center">Computer Science Major at University of Massachusetts - Amherst</h3>
 
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ethanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethanay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
